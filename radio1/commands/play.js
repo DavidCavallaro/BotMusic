@@ -87,4 +87,4 @@ module.exports = {
             return sendError(`Non riesco ad entrare nel canale vocale: ${error}`, message.channel);
         }
     },
-};
+}
