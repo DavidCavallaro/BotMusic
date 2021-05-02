@@ -56,4 +56,4 @@ client.on("message", (message) => {
 });
 
 //Logging in to discord
-client.login("ODM3NzM0NjQ4MjI2MjUwNzcy.YIw3MA.Pld4XeiVss560pO5flv7xMdQJDQ")
+client.login(my token)
