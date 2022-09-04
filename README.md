@@ -1,5 +1,5 @@
 
-<h1 align="center"> BotMusi </h1>
+<h1 align="center"> BotMusic </h1>
 
 ## ATTENTION!
 
